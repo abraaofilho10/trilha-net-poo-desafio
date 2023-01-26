@@ -2,6 +2,8 @@
 
 Este repositório possui uma solução para o desafio proposto. O link do projeto original é [https://github.com/digitalinnovationone/trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio).
 
+Abaixo está o Leia-me original.
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
